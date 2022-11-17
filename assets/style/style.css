@@ -158,7 +158,7 @@ tfoot tr td {
 
 .patinhas {
     height: 40px;
-    background-image: url(/img/patas.jpg);
+    background-image: url(/assets/img/patas.jpg);
     background-size: contain;
     opacity: 0.3;
 }
@@ -216,25 +216,25 @@ textarea {
 }
 
 .li-1 {
-    margin-left: 20px;
+    margin-left: 30px;
 }
 
 .li-2 {
-    margin-left: 140px;
+    margin-left: 170px;
 }
 
 .li-3 {
-    margin-left: 280px;
+    margin-left: 310px;
 }
 
 .li-4 {
-    margin-left: 420px;
+    margin-left: 450px;
 }
 
 .li-5 {
-    margin-left: 560px;
+    margin-left: 590px;
 }
 
 .li-6 {
-    margin-left: 700px;
+    margin-left: 730px;
 }

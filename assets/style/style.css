@@ -76,12 +76,15 @@ body {
 
 .titulo-logo {
     margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5px;
 }
 
 .slogan {
     margin: 10 0;
     color: rgb(43, 37, 31);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5px;
 }
 
 .menu ul a {
@@ -102,6 +105,27 @@ body {
 .img-header-sobre {
     display: flex;
     justify-content: space-evenly;
+}
+
+.cards-sobre {
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: space-around;
+}
+
+.sobre-card1 {
+    width: 230px;
+    text-align: center;
+}
+
+.sobre-card2 {
+    width: 230px;
+    text-align: center;
+}
+
+.sobre-card3 {
+    width: 230px;
+    text-align: center;
 }
 
 .img-header-img1, .img-header-img2, .img-header-img3 {
